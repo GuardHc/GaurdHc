@@ -1,0 +1,23 @@
+{
+  "name": "guardhc",
+  "version": "1.0.0",
+  "description": "Guard Hc Clock",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "(https://github.com/GuardHc/Guard-Hc-Clock.git)"
+  },
+  "keywords": [
+    "guard",
+    "guard-hc",
+    "guard-js"
+  ],
+  "author": "Brajan Michalski oniemamammo",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^12.5.3"
+  }
+}
